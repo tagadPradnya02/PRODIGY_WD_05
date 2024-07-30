@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    
+}
+
+.weather-container {
+    margin-top: 20px;
+    background-color: burlywood;
+}
+
+.weather-info {
+    margin-top: 10px;
+
+}
